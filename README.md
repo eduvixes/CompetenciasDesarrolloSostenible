@@ -42,6 +42,8 @@
 
 [] https://blogs.imf-formacion.com/blog/desarrollo-sostenible/desarrollo-sostenible/3-competencias-clave-de-la-formacion-en-desarrollo-sostenible/
 
+[] indice foroeducacion sobre sostenibilidad https://forodeeducacion.com/ojs/index.php/fde/issue/view/21
+
 [] https://forodeeducacion.com/ojs/index.php/fde/article/view/374 (competencias.pdf)
 
 [] https://forodeeducacion.com/ojs/index.php/fde/article/view/380 (huertasurbanas2015)
