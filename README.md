@@ -44,5 +44,7 @@
 
 [] https://forodeeducacion.com/ojs/index.php/fde/article/view/374 (competencias.pdf)
 
+[] https://forodeeducacion.com/ojs/index.php/fde/article/view/380 (huertasurbanas2015)
+
 
 [] https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
