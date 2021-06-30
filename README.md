@@ -42,5 +42,7 @@
 
 [] https://blogs.imf-formacion.com/blog/desarrollo-sostenible/desarrollo-sostenible/3-competencias-clave-de-la-formacion-en-desarrollo-sostenible/
 
+[] https://forodeeducacion.com/ojs/index.php/fde/article/view/374 (competencias.pdf)
+
 
 [] https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
