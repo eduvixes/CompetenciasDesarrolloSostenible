@@ -73,8 +73,15 @@ guia_local_para_adaptacion_cambio_climatico_en_municipios_espanoles_vol_2_tcm30-
 [] empresa de consultoria de validacion en colombia
 https://onac.org.co/servicios/validacion-y-verificacion-gei/
 
+[] otra (fundacion) extranjera
+https://www.lr.org/es-es/iso-14064/
+ 
 [] enac en españa
 https://www.enac.es/web/enac/que-hacemos/servicios-de-acreditacion/verificadores-de-gases-de-efecto-invernadero?p_p_id=MensajeCookie_WAR_Gestionportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_MensajeCookie_WAR_Gestionportlet_javax.portlet.action=aceptarTodas
+
+[] comercio emisiones españa
+https://www.miteco.gob.es/es/cambio-climatico/temas/comercio-de-derechos-de-emision/el-comercio-de-derechos-de-emision-en-espana/seguimiento-y-verificacion-de-las-emisiones/default.aspx
+
 
 
 
