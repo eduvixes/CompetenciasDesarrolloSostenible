@@ -64,6 +64,9 @@ https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono/metodologias.a
 [] Fondo de Carbono
 https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono/
 
+[] mercado carbono
+mercadocarbono.pdf
+
 [] Guia para adaptacion climatica en municipios
 guia_local_para_adaptacion_cambio_climatico_en_municipios_espanoles_vol_2_tcm30-178445.pdf
 
