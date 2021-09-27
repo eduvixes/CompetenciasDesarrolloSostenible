@@ -70,6 +70,12 @@ guia_local_para_adaptacion_cambio_climatico_en_municipios_espanoles_vol_2_tcm30-
 [] Metodologias para el calculo de emisiones de gases efecto invernadero
 7MEDOLOGIAS.pdf
 
+[] empresa de consultoria de validacion en colombia
+https://onac.org.co/servicios/validacion-y-verificacion-gei/
+
+[] enac en españa
+https://www.enac.es/web/enac/que-hacemos/servicios-de-acreditacion/verificadores-de-gases-de-efecto-invernadero?p_p_id=MensajeCookie_WAR_Gestionportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_MensajeCookie_WAR_Gestionportlet_javax.portlet.action=aceptarTodas
+
 
 
 
