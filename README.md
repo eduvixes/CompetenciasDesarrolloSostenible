@@ -55,3 +55,22 @@
 
 ejemplo de informe sostenible de Envac 
 [] https://www.ategrus.org/noticias/envac-publica-su-primera-memoria-de-sostenibilidad-en-la-que-especifica-la-contribucion-de-sus-sistemas-a-un-mundo-mas-verde-y-habitable/
+
+Estimación reduccion de emisiones
+
+[] Metodologías para la estimación de la Reducción de Emisiones de los Proyectos Clima (calculo ex – ante)
+https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono/metodologias.aspx
+
+[] Fondo de Carbono
+https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono/
+
+[] Guia para adaptacion climatica en municipios
+guia_local_para_adaptacion_cambio_climatico_en_municipios_espanoles_vol_2_tcm30-178445.pdf
+
+[] Metodologias para el calculo de emisiones de gases efecto invernadero
+7MEDOLOGIAS.pdf
+
+
+
+
+
