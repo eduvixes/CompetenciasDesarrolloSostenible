@@ -58,6 +58,18 @@ ejemplo de informe sostenible de Envac
 
 Estimación reduccion de emisiones
 
+-----------------------------
+[] calculo huella de carbono
+https://www.grn.cl/huella-de-carbono/calculo-de-la-huella-de-carbono.html
+
+muy bueno:
+https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/guia_huella_carbono_tcm30-479093.pdf
+
+bah
+https://www.bbva.com/es/es/sostenibilidad/como-se-calcula-la-huella-de-carbono/
+
+-----------------------------
+
 [] Metodologías para la estimación de la Reducción de Emisiones de los Proyectos Clima (calculo ex – ante)
 https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono/metodologias.aspx
 
