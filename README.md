@@ -68,6 +68,9 @@ https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medid
 bah
 https://www.bbva.com/es/es/sostenibilidad/como-se-calcula-la-huella-de-carbono/
 
+referencias
+https://todosobrelahuelladecarbono.blogspot.com/2020/05/referencias-y-bibliografia-informacion.html
+
 -----------------------------
 
 [] Metodologías para la estimación de la Reducción de Emisiones de los Proyectos Clima (calculo ex – ante)
