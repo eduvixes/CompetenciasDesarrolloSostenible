@@ -116,6 +116,19 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 CClimatico_coop_jun2010_Cecilia1.pdf
 
 
+compensate
+
+[]Compensate_Getting_the_claims_right_2022__3_
+Compensate_Getting_the_claims_right_2022__3_.pdf
+
+[]EU study undertaken to support the Claims Directive
+https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/enforcement-consumer-protection/sweeps_en#ref-2020--sweep-on-misleading-sustainability-claims
+
+[]figures of EU study undertaken to support the Claims Directive
+https://environment.ec.europa.eu/topics/circular-economy/green-claims_en
+
+
+
 
 
 
