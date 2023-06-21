@@ -82,6 +82,9 @@ https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono/
 [] mercado carbono
 mercadovoluntario.pdf
 
+[] precio carbono
+LP_Carbon_pricing_EN.pdf
+
 [] mercado carbono
 i1632s02.pdf
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjb1s2FuJ_zAhWoxIUKHb2ABQEQFnoECAMQAQ&url=http%3A%2F%2Fwww.fao.org%2F3%2Fi1632s%2Fi1632s02.pdf&usg=AOvVaw21hRaqLi4c7jRZy0ICPlMs
